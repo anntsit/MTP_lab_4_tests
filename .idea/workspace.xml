@@ -1,0 +1,1317 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ChangeListManager">
+    <list default="true" id="3a11ea22-42b0-4d7e-80a6-b907bc3ca009" name="Default" comment="">
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/port.lock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/304/1/.cp/doc/images/2.0M3/team-hyperlinks-annotations.gif" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/304/1/.cp/doc/images/2.0M3/team-hyperlinks-history.gif" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/304/1/.cp/doc/images/2.0M3/ui-legend-connectors.gif" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/304/1/.cp/doc/images/2.0M3/ui-usage-report.gif" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/304/1/.cp/doc/images/2.1M1/bugzilla-cached-config.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/304/1/.cp/doc/images/2.1M1/bugzilla-custom-resolutions.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/304/1/.cp/doc/images/2.1M1/bugzilla-search-keywords.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/304/1/.cp/doc/images/2.1M1/screenshot-capture.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/304/1/.cp/doc/images/2.1M1/spelling-corrections.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/304/1/.cp/doc/images/2.1M1/task-editor-hyperlinks.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/304/1/.cp/doc/images/2.1M1/tasklist-search.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/304/1/.cp/doc/images/mylyn-2.0.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/304/1/.cp/icons/etool16/icons-legend.gif" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/304/1/.cp/images/mylyn-overview-small.gif" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/304/1/.cp/images/mylyn-overview.gif" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/304/1/.cp/images/topiclabel/ov_legend48.gif" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/304/1/.cp/images/topiclabel/ov_legend48_hov.gif" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/304/1/.cp/images/topiclabel/ov_mylyn48.gif" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/304/1/.cp/images/topiclabel/ov_mylyn48_hov.gif" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/304/1/.cp/images/topiclabel/tu_query48.gif" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/304/1/.cp/images/topiclabel/tu_query48_hov.gif" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/304/1/.cp/images/topiclabel/tu_task48.gif" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/304/1/.cp/images/topiclabel/tu_task48_hov.gif" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/304/1/.cp/images/topiclabel/wn_mylyn48.gif" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/304/1/.cp/images/topiclabel/wn_mylyn48_hov.gif" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/304/1/.cp/org/eclipse/mylyn/internal/help/ui/actions/ShowMylynLegendAction.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/304/1/.cp/org/eclipse/mylyn/internal/help/ui/dialogs/UiLegendDialog$1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/304/1/.cp/org/eclipse/mylyn/internal/help/ui/dialogs/UiLegendDialog$2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/304/1/.cp/org/eclipse/mylyn/internal/help/ui/dialogs/UiLegendDialog$3.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/304/1/.cp/org/eclipse/mylyn/internal/help/ui/dialogs/UiLegendDialog$CloseDialogAction.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/304/1/.cp/org/eclipse/mylyn/internal/help/ui/dialogs/UiLegendDialog.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/316/1/.cp/lib-httpclient/commons-codec-1.3.jar" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/316/1/.cp/lib-httpclient/commons-httpclient-3.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/316/1/.cp/lib-httpclient/commons-logging-1.0.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/316/1/.cp/lib-httpclient/commons-logging-api-1.0.4.jar" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/316/1/.cp/lib-lang/commons-lang-2.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/316/1/.cp/lib-rome/jdom-1.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/316/1/.cp/lib-rome/rome-0.8.jar" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/316/1/.cp/lib-xmlrpc/ws-commons-util-1.0.1.jar" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/316/1/.cp/lib-xmlrpc/xmlrpc-client-3.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/316/1/.cp/lib-xmlrpc/xmlrpc-common-3.0.jar" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/META-INF/ECLIPSE.RSA" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/eclipse32.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/images/topiclabel/ov_eclplugindev48.gif" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/images/topiclabel/ov_eclplugindev48_hov.gif" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/images/topiclabel/sa_samplecube48.gif" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/images/topiclabel/sa_samplecube48_hov.gif" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/images/topiclabel/sa_sampleorb48.gif" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/images/topiclabel/sa_sampleorb48_hov.gif" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/images/topiclabel/tu_createplugin48.gif" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/images/topiclabel/tu_createplugin48_hov.gif" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/images/topiclabel/tu_rcpapp48.gif" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/images/topiclabel/tu_rcpapp48_hov.gif" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/images/topiclabel/wn_pluginenviro48.gif" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/images/topiclabel/wn_pluginenviro48_hov.gif" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/org/eclipse/pde/internal/core/content/BundleManifestDescriber.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/334/1/.cp/swt-gdip-win32-3349.dll" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/334/1/.cp/swt-win32-3349.dll" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/353/1/.cp/icons/blank.gif" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/36/1/.cp/os/win32/x86/localfile_1_0_0.dll" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/453/1/.cp/ui.jar" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.update/last.config.stamp" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_4.3.0_1709980481_win32_win32_x86_64/configuration/org.eclipse.core.runtime/.contributions.1" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_4.3.0_1709980481_win32_win32_x86_64/configuration/org.eclipse.core.runtime/.contributors.1" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_4.3.0_1709980481_win32_win32_x86_64/configuration/org.eclipse.core.runtime/.extraData.1" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_4.3.0_1709980481_win32_win32_x86_64/configuration/org.eclipse.core.runtime/.mainData.1" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_4.3.0_1709980481_win32_win32_x86_64/configuration/org.eclipse.core.runtime/.manager/.fileTableLock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_4.3.0_1709980481_win32_win32_x86_64/configuration/org.eclipse.core.runtime/.namespaces.1" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_4.3.0_1709980481_win32_win32_x86_64/configuration/org.eclipse.core.runtime/.orphans.1" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_4.3.0_1709980481_win32_win32_x86_64/configuration/org.eclipse.core.runtime/.table.1" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_4.3.0_1709980481_win32_win32_x86_64/configuration/org.eclipse.equinox.app/.manager/.fileTableLock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_4.3.0_1709980481_win32_win32_x86_64/configuration/org.eclipse.osgi/.bundledata.1" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_4.3.0_1709980481_win32_win32_x86_64/configuration/org.eclipse.osgi/.lazy.1" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_4.3.0_1709980481_win32_win32_x86_64/configuration/org.eclipse.osgi/.manager/.fileTableLock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_4.3.0_1709980481_win32_win32_x86_64/configuration/org.eclipse.osgi/.state.1" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_4.3.0_1709980481_win32_win32_x86_64/configuration/org.eclipse.osgi/bundles/289/data/SCR" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_4.3.0_1709980481_win32_win32_x86_64/configuration/org.eclipse.osgi/bundles/309/data/1619892960/content.jar" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_4.3.0_1709980481_win32_win32_x86_64/configuration/org.eclipse.osgi/bundles/318/data/listener_1925729951/artifacts.jar" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_4.3.0_1709980481_win32_win32_x86_64/configuration/org.eclipse.osgi/bundles/318/data/listener_1925729951/content.jar" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_4.3.0_1709980481_win32_win32_x86_64/configuration/org.eclipse.osgi/bundles/377/1/.cp/icons/full/title_banner.png" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_4.3.0_1709980481_win32_win32_x86_64/configuration/org.eclipse.osgi/bundles/659/1/.cp/swt-gdip-win32-4332.dll" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_4.3.0_1709980481_win32_win32_x86_64/configuration/org.eclipse.osgi/bundles/659/1/.cp/swt-win32-4332.dll" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_4.3.0_1709980481_win32_win32_x86_64/p2/org.eclipse.equinox.p2.engine/profileRegistry/epp.package.jee.profile/.lock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_4.3.0_1709980481_win32_win32_x86_64/p2/org.eclipse.equinox.p2.engine/profileRegistry/epp.package.jee.profile/1505416641243.profile.gz" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_4.3.0_1709980481_win32_win32_x86_64/p2/org.eclipse.equinox.p2.engine/profileRegistry/epp.package.jee.profile/1505416642009.profile.gz" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/file-changes/last-build.bin" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/fileHashes/fileHashes.bin" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/fileHashes/fileHashes.lock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/fileHashes/jvmRuntimeClassSignatures.bin" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_d368k21j89h2kf0fn5075b2pb/en0asqc2yqx8bzj2nhjgmi8c4/cp_proj9cdf6acfe2df124a8b9edfe8979f4434/cp_proj9cdf6acfe2df124a8b9edfe8979f4434.lock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_d368k21j89h2kf0fn5075b2pb/en0asqc2yqx8bzj2nhjgmi8c4/cp_proj9cdf6acfe2df124a8b9edfe8979f4434/metadata/metadata.bin" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_d368k21j89h2kf0fn5075b2pb/en0asqc2yqx8bzj2nhjgmi8c4/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_d368k21j89h2kf0fn5075b2pb$_run_closure1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_d368k21j89h2kf0fn5075b2pb/en0asqc2yqx8bzj2nhjgmi8c4/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_d368k21j89h2kf0fn5075b2pb$_run_closure2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_d368k21j89h2kf0fn5075b2pb/en0asqc2yqx8bzj2nhjgmi8c4/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_d368k21j89h2kf0fn5075b2pb.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_d368k21j89h2kf0fn5075b2pb/en0asqc2yqx8bzj2nhjgmi8c4/proj9cdf6acfe2df124a8b9edfe8979f4434/metadata/metadata.bin" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_d368k21j89h2kf0fn5075b2pb/en0asqc2yqx8bzj2nhjgmi8c4/proj9cdf6acfe2df124a8b9edfe8979f4434/proj9cdf6acfe2df124a8b9edfe8979f4434.lock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/21melp4xdlcvvj27ravva66u3/cp_proj9cdf6acfe2df124a8b9edfe8979f4434/cp_proj9cdf6acfe2df124a8b9edfe8979f4434.lock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/21melp4xdlcvvj27ravva66u3/cp_proj9cdf6acfe2df124a8b9edfe8979f4434/metadata/metadata.bin" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/21melp4xdlcvvj27ravva66u3/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/21melp4xdlcvvj27ravva66u3/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/21melp4xdlcvvj27ravva66u3/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure3$_closure9.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/21melp4xdlcvvj27ravva66u3/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure3.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/21melp4xdlcvvj27ravva66u3/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure4$_closure10.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/21melp4xdlcvvj27ravva66u3/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure4$_closure11.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/21melp4xdlcvvj27ravva66u3/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure4.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/21melp4xdlcvvj27ravva66u3/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure5.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/21melp4xdlcvvj27ravva66u3/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure6$_closure12.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/21melp4xdlcvvj27ravva66u3/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure6.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/21melp4xdlcvvj27ravva66u3/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure7.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/21melp4xdlcvvj27ravva66u3/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure8.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/21melp4xdlcvvj27ravva66u3/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/21melp4xdlcvvj27ravva66u3/proj9cdf6acfe2df124a8b9edfe8979f4434/metadata/metadata.bin" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/21melp4xdlcvvj27ravva66u3/proj9cdf6acfe2df124a8b9edfe8979f4434/proj9cdf6acfe2df124a8b9edfe8979f4434.lock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/3q6tvlpt6w0pcz4njshtp5qhx/cp_proj9cdf6acfe2df124a8b9edfe8979f4434/cp_proj9cdf6acfe2df124a8b9edfe8979f4434.lock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/3q6tvlpt6w0pcz4njshtp5qhx/cp_proj9cdf6acfe2df124a8b9edfe8979f4434/metadata/metadata.bin" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/3q6tvlpt6w0pcz4njshtp5qhx/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/3q6tvlpt6w0pcz4njshtp5qhx/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/3q6tvlpt6w0pcz4njshtp5qhx/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/3q6tvlpt6w0pcz4njshtp5qhx/proj9cdf6acfe2df124a8b9edfe8979f4434/metadata/metadata.bin" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/3q6tvlpt6w0pcz4njshtp5qhx/proj9cdf6acfe2df124a8b9edfe8979f4434/proj9cdf6acfe2df124a8b9edfe8979f4434.lock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/6ql7y5r0rxvamopviz1tegugb/cp_proj9cdf6acfe2df124a8b9edfe8979f4434/cp_proj9cdf6acfe2df124a8b9edfe8979f4434.lock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/6ql7y5r0rxvamopviz1tegugb/cp_proj9cdf6acfe2df124a8b9edfe8979f4434/metadata/metadata.bin" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/6ql7y5r0rxvamopviz1tegugb/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/6ql7y5r0rxvamopviz1tegugb/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/6ql7y5r0rxvamopviz1tegugb/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure3$_closure8.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/6ql7y5r0rxvamopviz1tegugb/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure3.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/6ql7y5r0rxvamopviz1tegugb/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure4$_closure10.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/6ql7y5r0rxvamopviz1tegugb/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure4$_closure9.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/6ql7y5r0rxvamopviz1tegugb/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure4.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/6ql7y5r0rxvamopviz1tegugb/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure5.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/6ql7y5r0rxvamopviz1tegugb/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure6$_closure11.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/6ql7y5r0rxvamopviz1tegugb/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure6.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/6ql7y5r0rxvamopviz1tegugb/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure7.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/6ql7y5r0rxvamopviz1tegugb/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/6ql7y5r0rxvamopviz1tegugb/proj9cdf6acfe2df124a8b9edfe8979f4434/metadata/metadata.bin" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/6ql7y5r0rxvamopviz1tegugb/proj9cdf6acfe2df124a8b9edfe8979f4434/proj9cdf6acfe2df124a8b9edfe8979f4434.lock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/ack9136dipel8gwqiaj4tr7cj/cp_proj9cdf6acfe2df124a8b9edfe8979f4434/cp_proj9cdf6acfe2df124a8b9edfe8979f4434.lock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/ack9136dipel8gwqiaj4tr7cj/cp_proj9cdf6acfe2df124a8b9edfe8979f4434/metadata/metadata.bin" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/ack9136dipel8gwqiaj4tr7cj/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/ack9136dipel8gwqiaj4tr7cj/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/ack9136dipel8gwqiaj4tr7cj/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/ack9136dipel8gwqiaj4tr7cj/proj9cdf6acfe2df124a8b9edfe8979f4434/metadata/metadata.bin" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/ack9136dipel8gwqiaj4tr7cj/proj9cdf6acfe2df124a8b9edfe8979f4434/proj9cdf6acfe2df124a8b9edfe8979f4434.lock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/en0asqc2yqx8bzj2nhjgmi8c4/cp_proj9cdf6acfe2df124a8b9edfe8979f4434/cp_proj9cdf6acfe2df124a8b9edfe8979f4434.lock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/en0asqc2yqx8bzj2nhjgmi8c4/cp_proj9cdf6acfe2df124a8b9edfe8979f4434/metadata/metadata.bin" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/en0asqc2yqx8bzj2nhjgmi8c4/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/en0asqc2yqx8bzj2nhjgmi8c4/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/en0asqc2yqx8bzj2nhjgmi8c4/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/en0asqc2yqx8bzj2nhjgmi8c4/proj9cdf6acfe2df124a8b9edfe8979f4434/metadata/metadata.bin" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/en0asqc2yqx8bzj2nhjgmi8c4/proj9cdf6acfe2df124a8b9edfe8979f4434/proj9cdf6acfe2df124a8b9edfe8979f4434.lock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/enasdjqhrl57cnz14qaoirq1i/cp_proj9cdf6acfe2df124a8b9edfe8979f4434/cp_proj9cdf6acfe2df124a8b9edfe8979f4434.lock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/enasdjqhrl57cnz14qaoirq1i/cp_proj9cdf6acfe2df124a8b9edfe8979f4434/metadata/metadata.bin" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/enasdjqhrl57cnz14qaoirq1i/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/enasdjqhrl57cnz14qaoirq1i/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/enasdjqhrl57cnz14qaoirq1i/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure3$_closure10.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/enasdjqhrl57cnz14qaoirq1i/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure3.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/enasdjqhrl57cnz14qaoirq1i/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure4$_closure11.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/enasdjqhrl57cnz14qaoirq1i/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure4$_closure12.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/enasdjqhrl57cnz14qaoirq1i/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure4.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/enasdjqhrl57cnz14qaoirq1i/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure5.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/enasdjqhrl57cnz14qaoirq1i/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure6$_closure13.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/enasdjqhrl57cnz14qaoirq1i/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure6.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/enasdjqhrl57cnz14qaoirq1i/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure7.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/enasdjqhrl57cnz14qaoirq1i/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure8.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/enasdjqhrl57cnz14qaoirq1i/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure9.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/enasdjqhrl57cnz14qaoirq1i/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/enasdjqhrl57cnz14qaoirq1i/proj9cdf6acfe2df124a8b9edfe8979f4434/metadata/metadata.bin" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/enasdjqhrl57cnz14qaoirq1i/proj9cdf6acfe2df124a8b9edfe8979f4434/proj9cdf6acfe2df124a8b9edfe8979f4434.lock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/f2unm9qvaerls60jvurjpx4d5/cp_proj9cdf6acfe2df124a8b9edfe8979f4434/cp_proj9cdf6acfe2df124a8b9edfe8979f4434.lock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/f2unm9qvaerls60jvurjpx4d5/cp_proj9cdf6acfe2df124a8b9edfe8979f4434/metadata/metadata.bin" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/f2unm9qvaerls60jvurjpx4d5/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/f2unm9qvaerls60jvurjpx4d5/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/f2unm9qvaerls60jvurjpx4d5/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/f2unm9qvaerls60jvurjpx4d5/proj9cdf6acfe2df124a8b9edfe8979f4434/metadata/metadata.bin" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/f2unm9qvaerls60jvurjpx4d5/proj9cdf6acfe2df124a8b9edfe8979f4434/proj9cdf6acfe2df124a8b9edfe8979f4434.lock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/skwcz3t3li1kmcx8qj3zsjwz/cp_proj9cdf6acfe2df124a8b9edfe8979f4434/cp_proj9cdf6acfe2df124a8b9edfe8979f4434.lock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/skwcz3t3li1kmcx8qj3zsjwz/cp_proj9cdf6acfe2df124a8b9edfe8979f4434/metadata/metadata.bin" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/skwcz3t3li1kmcx8qj3zsjwz/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/skwcz3t3li1kmcx8qj3zsjwz/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar$_run_closure2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/skwcz3t3li1kmcx8qj3zsjwz/proj9cdf6acfe2df124a8b9edfe8979f4434/classes/build_euy9b79xyz4de5k3mewz488ar.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/skwcz3t3li1kmcx8qj3zsjwz/proj9cdf6acfe2df124a8b9edfe8979f4434/metadata/metadata.bin" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/skwcz3t3li1kmcx8qj3zsjwz/proj9cdf6acfe2df124a8b9edfe8979f4434/proj9cdf6acfe2df124a8b9edfe8979f4434.lock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit10_1n36tumfq2wh78os3ddfmznjj/2wsw7sca11r3l58qdsa6pr8qv/cp_init9cdf6acfe2df124a8b9edfe8979f4434/classes/ijinit10_1n36tumfq2wh78os3ddfmznjj$_run_closure1$_closure2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit10_1n36tumfq2wh78os3ddfmznjj/2wsw7sca11r3l58qdsa6pr8qv/cp_init9cdf6acfe2df124a8b9edfe8979f4434/classes/ijinit10_1n36tumfq2wh78os3ddfmznjj$_run_closure1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit10_1n36tumfq2wh78os3ddfmznjj/2wsw7sca11r3l58qdsa6pr8qv/cp_init9cdf6acfe2df124a8b9edfe8979f4434/classes/ijinit10_1n36tumfq2wh78os3ddfmznjj.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit10_1n36tumfq2wh78os3ddfmznjj/2wsw7sca11r3l58qdsa6pr8qv/cp_init9cdf6acfe2df124a8b9edfe8979f4434/cp_init9cdf6acfe2df124a8b9edfe8979f4434.lock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit10_1n36tumfq2wh78os3ddfmznjj/2wsw7sca11r3l58qdsa6pr8qv/cp_init9cdf6acfe2df124a8b9edfe8979f4434/metadata/metadata.bin" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit10_1n36tumfq2wh78os3ddfmznjj/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit10_1n36tumfq2wh78os3ddfmznjj/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure2$_closure4.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit10_1n36tumfq2wh78os3ddfmznjj/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit10_1n36tumfq2wh78os3ddfmznjj/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure3$_closure5.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit10_1n36tumfq2wh78os3ddfmznjj/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure3$_closure6$_closure7.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit10_1n36tumfq2wh78os3ddfmznjj/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure3$_closure6.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit10_1n36tumfq2wh78os3ddfmznjj/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure3.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit10_1n36tumfq2wh78os3ddfmznjj/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit10_1n36tumfq2wh78os3ddfmznjj/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/ijinit10_1n36tumfq2wh78os3ddfmznjj.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit10_1n36tumfq2wh78os3ddfmznjj/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/inited7f6523340c7050c693d4d3b58e95aa.lock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit10_1n36tumfq2wh78os3ddfmznjj/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/metadata/metadata.bin" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit11_950ultrxpcygmzfcf76tq5obx/2wsw7sca11r3l58qdsa6pr8qv/cp_init9cdf6acfe2df124a8b9edfe8979f4434/classes/ijinit11_950ultrxpcygmzfcf76tq5obx$_run_closure1$_closure2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit11_950ultrxpcygmzfcf76tq5obx/2wsw7sca11r3l58qdsa6pr8qv/cp_init9cdf6acfe2df124a8b9edfe8979f4434/classes/ijinit11_950ultrxpcygmzfcf76tq5obx$_run_closure1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit11_950ultrxpcygmzfcf76tq5obx/2wsw7sca11r3l58qdsa6pr8qv/cp_init9cdf6acfe2df124a8b9edfe8979f4434/classes/ijinit11_950ultrxpcygmzfcf76tq5obx.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit11_950ultrxpcygmzfcf76tq5obx/2wsw7sca11r3l58qdsa6pr8qv/cp_init9cdf6acfe2df124a8b9edfe8979f4434/cp_init9cdf6acfe2df124a8b9edfe8979f4434.lock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit11_950ultrxpcygmzfcf76tq5obx/2wsw7sca11r3l58qdsa6pr8qv/cp_init9cdf6acfe2df124a8b9edfe8979f4434/metadata/metadata.bin" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit11_950ultrxpcygmzfcf76tq5obx/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit11_950ultrxpcygmzfcf76tq5obx/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure2$_closure4.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit11_950ultrxpcygmzfcf76tq5obx/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit11_950ultrxpcygmzfcf76tq5obx/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure3$_closure5.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit11_950ultrxpcygmzfcf76tq5obx/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure3$_closure6$_closure7.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit11_950ultrxpcygmzfcf76tq5obx/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure3$_closure6.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit11_950ultrxpcygmzfcf76tq5obx/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure3.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit11_950ultrxpcygmzfcf76tq5obx/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit11_950ultrxpcygmzfcf76tq5obx/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/ijinit11_950ultrxpcygmzfcf76tq5obx.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit11_950ultrxpcygmzfcf76tq5obx/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/inited7f6523340c7050c693d4d3b58e95aa.lock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit11_950ultrxpcygmzfcf76tq5obx/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/metadata/metadata.bin" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit12_3w7m25zxpqt6603i45s6p1oy5/2wsw7sca11r3l58qdsa6pr8qv/cp_init9cdf6acfe2df124a8b9edfe8979f4434/classes/ijinit12_3w7m25zxpqt6603i45s6p1oy5$_run_closure1$_closure2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit12_3w7m25zxpqt6603i45s6p1oy5/2wsw7sca11r3l58qdsa6pr8qv/cp_init9cdf6acfe2df124a8b9edfe8979f4434/classes/ijinit12_3w7m25zxpqt6603i45s6p1oy5$_run_closure1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit12_3w7m25zxpqt6603i45s6p1oy5/2wsw7sca11r3l58qdsa6pr8qv/cp_init9cdf6acfe2df124a8b9edfe8979f4434/classes/ijinit12_3w7m25zxpqt6603i45s6p1oy5.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit12_3w7m25zxpqt6603i45s6p1oy5/2wsw7sca11r3l58qdsa6pr8qv/cp_init9cdf6acfe2df124a8b9edfe8979f4434/cp_init9cdf6acfe2df124a8b9edfe8979f4434.lock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit12_3w7m25zxpqt6603i45s6p1oy5/2wsw7sca11r3l58qdsa6pr8qv/cp_init9cdf6acfe2df124a8b9edfe8979f4434/metadata/metadata.bin" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit12_3w7m25zxpqt6603i45s6p1oy5/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit12_3w7m25zxpqt6603i45s6p1oy5/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure2$_closure4.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit12_3w7m25zxpqt6603i45s6p1oy5/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit12_3w7m25zxpqt6603i45s6p1oy5/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure3$_closure5.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit12_3w7m25zxpqt6603i45s6p1oy5/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure3$_closure6$_closure7.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit12_3w7m25zxpqt6603i45s6p1oy5/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure3$_closure6.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit12_3w7m25zxpqt6603i45s6p1oy5/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure3.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit12_3w7m25zxpqt6603i45s6p1oy5/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit12_3w7m25zxpqt6603i45s6p1oy5/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/ijinit12_3w7m25zxpqt6603i45s6p1oy5.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit12_3w7m25zxpqt6603i45s6p1oy5/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/inited7f6523340c7050c693d4d3b58e95aa.lock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit12_3w7m25zxpqt6603i45s6p1oy5/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/metadata/metadata.bin" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit13_6cszqsn70fs33wjqb0x23q455/2wsw7sca11r3l58qdsa6pr8qv/cp_init9cdf6acfe2df124a8b9edfe8979f4434/classes/ijinit13_6cszqsn70fs33wjqb0x23q455$_run_closure1$_closure2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit13_6cszqsn70fs33wjqb0x23q455/2wsw7sca11r3l58qdsa6pr8qv/cp_init9cdf6acfe2df124a8b9edfe8979f4434/classes/ijinit13_6cszqsn70fs33wjqb0x23q455$_run_closure1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit13_6cszqsn70fs33wjqb0x23q455/2wsw7sca11r3l58qdsa6pr8qv/cp_init9cdf6acfe2df124a8b9edfe8979f4434/classes/ijinit13_6cszqsn70fs33wjqb0x23q455.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit13_6cszqsn70fs33wjqb0x23q455/2wsw7sca11r3l58qdsa6pr8qv/cp_init9cdf6acfe2df124a8b9edfe8979f4434/cp_init9cdf6acfe2df124a8b9edfe8979f4434.lock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit13_6cszqsn70fs33wjqb0x23q455/2wsw7sca11r3l58qdsa6pr8qv/cp_init9cdf6acfe2df124a8b9edfe8979f4434/metadata/metadata.bin" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit13_6cszqsn70fs33wjqb0x23q455/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit13_6cszqsn70fs33wjqb0x23q455/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure2$_closure4.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit13_6cszqsn70fs33wjqb0x23q455/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit13_6cszqsn70fs33wjqb0x23q455/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure3$_closure5.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit13_6cszqsn70fs33wjqb0x23q455/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure3$_closure6$_closure7.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit13_6cszqsn70fs33wjqb0x23q455/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure3$_closure6.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit13_6cszqsn70fs33wjqb0x23q455/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure3.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit13_6cszqsn70fs33wjqb0x23q455/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit13_6cszqsn70fs33wjqb0x23q455/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/ijinit13_6cszqsn70fs33wjqb0x23q455.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit13_6cszqsn70fs33wjqb0x23q455/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/inited7f6523340c7050c693d4d3b58e95aa.lock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit13_6cszqsn70fs33wjqb0x23q455/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/metadata/metadata.bin" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit14_4p5mhgspjrlwqizkp90e2axio/2wsw7sca11r3l58qdsa6pr8qv/cp_init9cdf6acfe2df124a8b9edfe8979f4434/classes/ijinit14_4p5mhgspjrlwqizkp90e2axio$_run_closure1$_closure2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit14_4p5mhgspjrlwqizkp90e2axio/2wsw7sca11r3l58qdsa6pr8qv/cp_init9cdf6acfe2df124a8b9edfe8979f4434/classes/ijinit14_4p5mhgspjrlwqizkp90e2axio$_run_closure1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit14_4p5mhgspjrlwqizkp90e2axio/2wsw7sca11r3l58qdsa6pr8qv/cp_init9cdf6acfe2df124a8b9edfe8979f4434/classes/ijinit14_4p5mhgspjrlwqizkp90e2axio.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit14_4p5mhgspjrlwqizkp90e2axio/2wsw7sca11r3l58qdsa6pr8qv/cp_init9cdf6acfe2df124a8b9edfe8979f4434/cp_init9cdf6acfe2df124a8b9edfe8979f4434.lock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit14_4p5mhgspjrlwqizkp90e2axio/2wsw7sca11r3l58qdsa6pr8qv/cp_init9cdf6acfe2df124a8b9edfe8979f4434/metadata/metadata.bin" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit14_4p5mhgspjrlwqizkp90e2axio/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit14_4p5mhgspjrlwqizkp90e2axio/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure2$_closure4.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit14_4p5mhgspjrlwqizkp90e2axio/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit14_4p5mhgspjrlwqizkp90e2axio/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure3$_closure5.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit14_4p5mhgspjrlwqizkp90e2axio/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure3$_closure6$_closure7.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit14_4p5mhgspjrlwqizkp90e2axio/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure3$_closure6.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit14_4p5mhgspjrlwqizkp90e2axio/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure3.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit14_4p5mhgspjrlwqizkp90e2axio/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit14_4p5mhgspjrlwqizkp90e2axio/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/ijinit14_4p5mhgspjrlwqizkp90e2axio.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit14_4p5mhgspjrlwqizkp90e2axio/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/inited7f6523340c7050c693d4d3b58e95aa.lock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit14_4p5mhgspjrlwqizkp90e2axio/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/metadata/metadata.bin" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/1vjo09nvirqw15ww7u2cqhogm/cp_init9cdf6acfe2df124a8b9edfe8979f4434/classes/ijinit4_rjitz1rupsw3x0uf08y7wkdc$_run_closure1$_closure2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/1vjo09nvirqw15ww7u2cqhogm/cp_init9cdf6acfe2df124a8b9edfe8979f4434/classes/ijinit4_rjitz1rupsw3x0uf08y7wkdc$_run_closure1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/1vjo09nvirqw15ww7u2cqhogm/cp_init9cdf6acfe2df124a8b9edfe8979f4434/classes/ijinit4_rjitz1rupsw3x0uf08y7wkdc.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/1vjo09nvirqw15ww7u2cqhogm/cp_init9cdf6acfe2df124a8b9edfe8979f4434/cp_init9cdf6acfe2df124a8b9edfe8979f4434.lock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/1vjo09nvirqw15ww7u2cqhogm/cp_init9cdf6acfe2df124a8b9edfe8979f4434/metadata/metadata.bin" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/1vjo09nvirqw15ww7u2cqhogm/initfee35a1fd449ac823886bb2f671eec26/classes/JetGradlePlugin$_apply_closure1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/1vjo09nvirqw15ww7u2cqhogm/initfee35a1fd449ac823886bb2f671eec26/classes/JetGradlePlugin$_apply_closure2$_closure4.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/1vjo09nvirqw15ww7u2cqhogm/initfee35a1fd449ac823886bb2f671eec26/classes/JetGradlePlugin$_apply_closure2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/1vjo09nvirqw15ww7u2cqhogm/initfee35a1fd449ac823886bb2f671eec26/classes/JetGradlePlugin$_apply_closure3$_closure5.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/1vjo09nvirqw15ww7u2cqhogm/initfee35a1fd449ac823886bb2f671eec26/classes/JetGradlePlugin$_apply_closure3$_closure6$_closure7.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/1vjo09nvirqw15ww7u2cqhogm/initfee35a1fd449ac823886bb2f671eec26/classes/JetGradlePlugin$_apply_closure3$_closure6.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/1vjo09nvirqw15ww7u2cqhogm/initfee35a1fd449ac823886bb2f671eec26/classes/JetGradlePlugin$_apply_closure3.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/1vjo09nvirqw15ww7u2cqhogm/initfee35a1fd449ac823886bb2f671eec26/classes/JetGradlePlugin.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/1vjo09nvirqw15ww7u2cqhogm/initfee35a1fd449ac823886bb2f671eec26/classes/ijinit4_rjitz1rupsw3x0uf08y7wkdc.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/1vjo09nvirqw15ww7u2cqhogm/initfee35a1fd449ac823886bb2f671eec26/initfee35a1fd449ac823886bb2f671eec26.lock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/1vjo09nvirqw15ww7u2cqhogm/initfee35a1fd449ac823886bb2f671eec26/metadata/metadata.bin" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/2wsw7sca11r3l58qdsa6pr8qv/cp_init9cdf6acfe2df124a8b9edfe8979f4434/classes/ijinit4_rjitz1rupsw3x0uf08y7wkdc$_run_closure1$_closure2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/2wsw7sca11r3l58qdsa6pr8qv/cp_init9cdf6acfe2df124a8b9edfe8979f4434/classes/ijinit4_rjitz1rupsw3x0uf08y7wkdc$_run_closure1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/2wsw7sca11r3l58qdsa6pr8qv/cp_init9cdf6acfe2df124a8b9edfe8979f4434/classes/ijinit4_rjitz1rupsw3x0uf08y7wkdc.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/2wsw7sca11r3l58qdsa6pr8qv/cp_init9cdf6acfe2df124a8b9edfe8979f4434/cp_init9cdf6acfe2df124a8b9edfe8979f4434.lock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/2wsw7sca11r3l58qdsa6pr8qv/cp_init9cdf6acfe2df124a8b9edfe8979f4434/metadata/metadata.bin" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure2$_closure4.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure3$_closure5.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure3$_closure6$_closure7.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure3$_closure6.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure3.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/ijinit4_rjitz1rupsw3x0uf08y7wkdc.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/inited7f6523340c7050c693d4d3b58e95aa.lock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/metadata/metadata.bin" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/6ht0dvl8c8jejqeq5tvwcj0j3/cp_init9cdf6acfe2df124a8b9edfe8979f4434/cp_init9cdf6acfe2df124a8b9edfe8979f4434.lock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/6ht0dvl8c8jejqeq5tvwcj0j3/cp_init9cdf6acfe2df124a8b9edfe8979f4434/metadata/metadata.bin" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/6ht0dvl8c8jejqeq5tvwcj0j3/init9cdf6acfe2df124a8b9edfe8979f4434/classes/ijinit4_rjitz1rupsw3x0uf08y7wkdc$_run_closure1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/6ht0dvl8c8jejqeq5tvwcj0j3/init9cdf6acfe2df124a8b9edfe8979f4434/classes/ijinit4_rjitz1rupsw3x0uf08y7wkdc.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/6ht0dvl8c8jejqeq5tvwcj0j3/init9cdf6acfe2df124a8b9edfe8979f4434/init9cdf6acfe2df124a8b9edfe8979f4434.lock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/6ht0dvl8c8jejqeq5tvwcj0j3/init9cdf6acfe2df124a8b9edfe8979f4434/metadata/metadata.bin" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/anhb96ty34s2cegtmbct70e1r/cp_init9cdf6acfe2df124a8b9edfe8979f4434/cp_init9cdf6acfe2df124a8b9edfe8979f4434.lock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/anhb96ty34s2cegtmbct70e1r/cp_init9cdf6acfe2df124a8b9edfe8979f4434/metadata/metadata.bin" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/anhb96ty34s2cegtmbct70e1r/init9cdf6acfe2df124a8b9edfe8979f4434/classes/ijinit4_rjitz1rupsw3x0uf08y7wkdc$_run_closure1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/anhb96ty34s2cegtmbct70e1r/init9cdf6acfe2df124a8b9edfe8979f4434/classes/ijinit4_rjitz1rupsw3x0uf08y7wkdc.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/anhb96ty34s2cegtmbct70e1r/init9cdf6acfe2df124a8b9edfe8979f4434/init9cdf6acfe2df124a8b9edfe8979f4434.lock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/anhb96ty34s2cegtmbct70e1r/init9cdf6acfe2df124a8b9edfe8979f4434/metadata/metadata.bin" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit5_9rdkvv4gsqronzqw4nz5j0azb/2wsw7sca11r3l58qdsa6pr8qv/cp_init9cdf6acfe2df124a8b9edfe8979f4434/classes/ijinit5_9rdkvv4gsqronzqw4nz5j0azb$_run_closure1$_closure2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit5_9rdkvv4gsqronzqw4nz5j0azb/2wsw7sca11r3l58qdsa6pr8qv/cp_init9cdf6acfe2df124a8b9edfe8979f4434/classes/ijinit5_9rdkvv4gsqronzqw4nz5j0azb$_run_closure1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit5_9rdkvv4gsqronzqw4nz5j0azb/2wsw7sca11r3l58qdsa6pr8qv/cp_init9cdf6acfe2df124a8b9edfe8979f4434/classes/ijinit5_9rdkvv4gsqronzqw4nz5j0azb.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit5_9rdkvv4gsqronzqw4nz5j0azb/2wsw7sca11r3l58qdsa6pr8qv/cp_init9cdf6acfe2df124a8b9edfe8979f4434/cp_init9cdf6acfe2df124a8b9edfe8979f4434.lock" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit5_9rdkvv4gsqronzqw4nz5j0azb/2wsw7sca11r3l58qdsa6pr8qv/cp_init9cdf6acfe2df124a8b9edfe8979f4434/metadata/metadata.bin" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit5_9rdkvv4gsqronzqw4nz5j0azb/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure1.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit5_9rdkvv4gsqronzqw4nz5j0azb/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure2$_closure4.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit5_9rdkvv4gsqronzqw4nz5j0azb/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure2.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit5_9rdkvv4gsqronzqw4nz5j0azb/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure3$_closure5.class" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit5_9rdkvv4gsqronzqw4nz5j0azb/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/classes/JetGradlePlugin$_apply_closure3$_closure6$_closure7.class" />
+      <change type="NEW" beforePath="" afterPath="$APPLICATION_CONFIG_DIR$/port" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/304/1/.cp/doc/new.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/304/1/.cp/doc/overview.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/304/1/.cp/doc/toc.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/304/1/.cp/intro/css/overview.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/304/1/.cp/intro/css/tutorials.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/304/1/.cp/intro/css/whatsnew.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/304/1/.cp/intro/overviewExtensionContent.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/304/1/.cp/intro/tutorialsExtensionContent.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/304/1/.cp/intro/whatsnewExtensionContent.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/304/1/.cp/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/META-INF/ECLIPSE.SF" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/META-INF/MANIFEST.MF" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/META-INF/eclipse.inf" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/about.html" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/about.ini" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/about.mappings" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/about.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/cheatsheets/helloworld-composite.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/cheatsheets/helloworld/helloworld-create.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/cheatsheets/helloworld/helloworld-extension.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/cheatsheets/helloworld/helloworld-feature.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/cheatsheets/helloworld/helloworld-install.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/cheatsheets/helloworld/helloworld-update.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/cheatsheets/rcpapp-composite.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/cheatsheets/rcpapp/rcpapp-create.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/cheatsheets/rcpapp/rcpapp-customize.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/cheatsheets/rcpapp/rcpapp-export.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/cheatsheets/rcpapp/rcpapp-feature-product.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/cheatsheets/rcpapp/rcpapp-plugin-product.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/intro/css/overview.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/intro/css/overview.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/intro/css/samples.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/intro/css/samples.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/intro/css/tutorials.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/intro/css/tutorials.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/intro/css/whatsnew.css" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/intro/css/whatsnew.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/intro/overviewExtensionContent.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/intro/samplesExtensionContent.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/intro/samplesExtensionContent2.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/intro/tutorialsExtensionContent.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/intro/whatsnewExtensionContent.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/plugin.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/329/1/.cp/plugin.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/bundles/353/1/.cp/javascript/common.js" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/manifests/com.eviware.soapui.libs_2.0.20080128.MF" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/manifests/org.apache.derby.core_10.3.3.0.MF" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/manifests/org.apache.derby.plugin.doc_1.1.1.MF" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.osgi/manifests/org.apache.derby.ui_1.1.1.MF" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.ui.intro.universal/extensionCount.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.ui.intro.universal/extensionNames.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.update/bookmarks.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.update/history/1505417377911.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.update/history/1505461387380.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.update/history/1505464530904.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.update/history/1505464703640.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.update/install.log" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_3.3.0_1709980481/configuration/org.eclipse.update/platform.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_4.3.0_1709980481_win32_win32_x86_64/artifacts.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_4.3.0_1709980481_win32_win32_x86_64/configuration/config.ini" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_4.3.0_1709980481_win32_win32_x86_64/configuration/org.eclipse.core.runtime/.manager/.fileTable.7" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_4.3.0_1709980481_win32_win32_x86_64/configuration/org.eclipse.core.runtime/.manager/.fileTable.8" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_4.3.0_1709980481_win32_win32_x86_64/configuration/org.eclipse.osgi/.manager/.fileTable.4" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_4.3.0_1709980481_win32_win32_x86_64/configuration/org.eclipse.osgi/.manager/.fileTable.5" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_4.3.0_1709980481_win32_win32_x86_64/configuration/org.eclipse.osgi/bundles/309/data/1619892960/artifacts.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_4.3.0_1709980481_win32_win32_x86_64/configuration/org.eclipse.osgi/bundles/318/data/cache.timestamps" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_4.3.0_1709980481_win32_win32_x86_64/configuration/org.eclipse.osgi/bundles/318/data/timestamps905172377" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_4.3.0_1709980481_win32_win32_x86_64/configuration/org.eclipse.osgi/bundles/330/data/-1662307163/artifacts.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_4.3.0_1709980481_win32_win32_x86_64/configuration/org.eclipse.osgi/bundles/330/data/-1787084247/artifacts.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_4.3.0_1709980481_win32_win32_x86_64/configuration/org.eclipse.osgi/bundles/330/data/-383950722/artifacts.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_4.3.0_1709980481_win32_win32_x86_64/configuration/org.eclipse.osgi/bundles/330/data/-383950722/content.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_4.3.0_1709980481_win32_win32_x86_64/configuration/org.eclipse.update/platform.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_4.3.0_1709980481_win32_win32_x86_64/p2/org.eclipse.equinox.p2.core/cache/artifacts.xml" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_4.3.0_1709980481_win32_win32_x86_64/p2/org.eclipse.equinox.p2.engine/profileRegistry/epp.package.jee.profile/.data/.settings/org.eclipse.equinox.p2.artifact.repository.prefs" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_4.3.0_1709980481_win32_win32_x86_64/p2/org.eclipse.equinox.p2.engine/profileRegistry/epp.package.jee.profile/.data/.settings/org.eclipse.equinox.p2.metadata.repository.prefs" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.eclipse/org.eclipse.platform_4.3.0_1709980481_win32_win32_x86_64/p2/org.eclipse.equinox.p2.engine/profileRegistry/epp.package.jee.profile/state.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_d368k21j89h2kf0fn5075b2pb/en0asqc2yqx8bzj2nhjgmi8c4/cp_proj9cdf6acfe2df124a8b9edfe8979f4434/cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_d368k21j89h2kf0fn5075b2pb/en0asqc2yqx8bzj2nhjgmi8c4/proj9cdf6acfe2df124a8b9edfe8979f4434/cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/21melp4xdlcvvj27ravva66u3/cp_proj9cdf6acfe2df124a8b9edfe8979f4434/cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/21melp4xdlcvvj27ravva66u3/proj9cdf6acfe2df124a8b9edfe8979f4434/cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/3q6tvlpt6w0pcz4njshtp5qhx/cp_proj9cdf6acfe2df124a8b9edfe8979f4434/cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/3q6tvlpt6w0pcz4njshtp5qhx/proj9cdf6acfe2df124a8b9edfe8979f4434/cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/6ql7y5r0rxvamopviz1tegugb/cp_proj9cdf6acfe2df124a8b9edfe8979f4434/cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/6ql7y5r0rxvamopviz1tegugb/proj9cdf6acfe2df124a8b9edfe8979f4434/cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/ack9136dipel8gwqiaj4tr7cj/cp_proj9cdf6acfe2df124a8b9edfe8979f4434/cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/ack9136dipel8gwqiaj4tr7cj/proj9cdf6acfe2df124a8b9edfe8979f4434/cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/en0asqc2yqx8bzj2nhjgmi8c4/cp_proj9cdf6acfe2df124a8b9edfe8979f4434/cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/en0asqc2yqx8bzj2nhjgmi8c4/proj9cdf6acfe2df124a8b9edfe8979f4434/cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/enasdjqhrl57cnz14qaoirq1i/cp_proj9cdf6acfe2df124a8b9edfe8979f4434/cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/enasdjqhrl57cnz14qaoirq1i/proj9cdf6acfe2df124a8b9edfe8979f4434/cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/f2unm9qvaerls60jvurjpx4d5/cp_proj9cdf6acfe2df124a8b9edfe8979f4434/cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/f2unm9qvaerls60jvurjpx4d5/proj9cdf6acfe2df124a8b9edfe8979f4434/cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/skwcz3t3li1kmcx8qj3zsjwz/cp_proj9cdf6acfe2df124a8b9edfe8979f4434/cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/build_euy9b79xyz4de5k3mewz488ar/skwcz3t3li1kmcx8qj3zsjwz/proj9cdf6acfe2df124a8b9edfe8979f4434/cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit10_1n36tumfq2wh78os3ddfmznjj/2wsw7sca11r3l58qdsa6pr8qv/cp_init9cdf6acfe2df124a8b9edfe8979f4434/cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit10_1n36tumfq2wh78os3ddfmznjj/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit11_950ultrxpcygmzfcf76tq5obx/2wsw7sca11r3l58qdsa6pr8qv/cp_init9cdf6acfe2df124a8b9edfe8979f4434/cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit11_950ultrxpcygmzfcf76tq5obx/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit12_3w7m25zxpqt6603i45s6p1oy5/2wsw7sca11r3l58qdsa6pr8qv/cp_init9cdf6acfe2df124a8b9edfe8979f4434/cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit12_3w7m25zxpqt6603i45s6p1oy5/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit13_6cszqsn70fs33wjqb0x23q455/2wsw7sca11r3l58qdsa6pr8qv/cp_init9cdf6acfe2df124a8b9edfe8979f4434/cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit13_6cszqsn70fs33wjqb0x23q455/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit14_4p5mhgspjrlwqizkp90e2axio/2wsw7sca11r3l58qdsa6pr8qv/cp_init9cdf6acfe2df124a8b9edfe8979f4434/cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit14_4p5mhgspjrlwqizkp90e2axio/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/1vjo09nvirqw15ww7u2cqhogm/cp_init9cdf6acfe2df124a8b9edfe8979f4434/cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/1vjo09nvirqw15ww7u2cqhogm/initfee35a1fd449ac823886bb2f671eec26/cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/2wsw7sca11r3l58qdsa6pr8qv/cp_init9cdf6acfe2df124a8b9edfe8979f4434/cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/6ht0dvl8c8jejqeq5tvwcj0j3/cp_init9cdf6acfe2df124a8b9edfe8979f4434/cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/6ht0dvl8c8jejqeq5tvwcj0j3/init9cdf6acfe2df124a8b9edfe8979f4434/cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/anhb96ty34s2cegtmbct70e1r/cp_init9cdf6acfe2df124a8b9edfe8979f4434/cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/anhb96ty34s2cegtmbct70e1r/init9cdf6acfe2df124a8b9edfe8979f4434/cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit5_9rdkvv4gsqronzqw4nz5j0azb/2wsw7sca11r3l58qdsa6pr8qv/cp_init9cdf6acfe2df124a8b9edfe8979f4434/cache.properties" />
+      <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit5_9rdkvv4gsqronzqw4nz5j0azb/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/cache.properties" />
+    </list>
+    <ignored path="$PROJECT_DIR$/out/" />
+    <ignored path="$PROJECT_DIR$/.gradle/" />
+    <ignored path="$PROJECT_DIR$/build/" />
+    <ignored path="../IdeaProjects/" />
+    <ignored path="../MTP/" />
+    <option name="EXCLUDED_CONVERTED_TO_IGNORED" value="true" />
+    <option name="TRACKING_ENABLED" value="true" />
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="CoverageDataManager">
+    <SUITE FILE_PATH="coverage/MTP$SortTest.coverage" NAME="SortTest Coverage Results" MODIFIED="1507295319645" SOURCE_PROVIDER="com.intellij.coverage.DefaultCoverageFileProvider" RUNNER="idea" COVERAGE_BY_TEST_ENABLED="false" COVERAGE_TRACING_ENABLED="false">
+      <FILTER>java.*</FILTER>
+    </SUITE>
+  </component>
+  <component name="ExternalProjectsData">
+    <projectState path="$PROJECT_DIR$">
+      <ProjectState />
+    </projectState>
+  </component>
+  <component name="ExternalProjectsManager">
+    <system id="GRADLE">
+      <state>
+        <projects_view>
+          <tree_state>
+            <expand>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MTP" type="f1a62948:ProjectNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MTP" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MTP" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+              </path>
+              <path>
+                <item name="" type="6a2764b6:ExternalProjectsStructure$RootNode" />
+                <item name="MTP" type="f1a62948:ProjectNode" />
+                <item name="Source Sets" type="e897c970:GradleViewContributor$SourceSetsNode" />
+                <item name="test" type="396b929e:GradleViewContributor$SourceSetNode" />
+                <item name="Dependencies" type="6de06a37:ExternalSystemViewDefaultContributor$MyDependenciesNode" />
+              </path>
+            </expand>
+            <select />
+          </tree_state>
+        </projects_view>
+      </state>
+    </system>
+  </component>
+  <component name="FileEditorManager">
+    <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
+      <file leaf-file-name="SortTest.java" pinned="false" current-in-tab="true">
+        <entry file="file://$PROJECT_DIR$/src/test/javatest/SortTest.java">
+          <provider selected="true" editor-type-id="text-editor">
+            <state relative-caret-position="189">
+              <caret line="20" column="41" lean-forward="true" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+              <folding>
+                <element signature="imports" expanded="true" />
+              </folding>
+            </state>
+          </provider>
+        </entry>
+      </file>
+    </leaf>
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Arquillian JUnit Test Class" />
+        <option value="JUnit5 Test Class" />
+        <option value="JUnit4 Test Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$" />
+  </component>
+  <component name="GradleLocalSettings">
+    <option name="myGradleHomes">
+      <map>
+        <entry key="$PROJECT_DIR$" value="C:\Users\Admin\.gradle\wrapper\dists\gradle-4.1-bin\c3kp51zwwt108wc78u68yt7vs\gradle-4.1" />
+      </map>
+    </option>
+    <option name="myGradleVersions">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4.1" />
+      </map>
+    </option>
+    <option name="availableProjects">
+      <map>
+        <entry>
+          <key>
+            <ExternalProjectPojo>
+              <option name="name" value="MTP" />
+              <option name="path" value="$PROJECT_DIR$" />
+            </ExternalProjectPojo>
+          </key>
+          <value>
+            <list>
+              <ExternalProjectPojo>
+                <option name="name" value="MTP" />
+                <option name="path" value="$PROJECT_DIR$" />
+              </ExternalProjectPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="availableTasks">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <list>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the components produced by root project 'MTP'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="components" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects that depend on it." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildDependents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the sub-projects of root project 'MTP'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="projects" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="classes" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the dependent components of components in root project 'MTP'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependentComponents" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all buildscript dependencies declared in root project 'MTP'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildEnvironment" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="wrapper" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Verifies code coverage metrics based on specified rules for the test task." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jacocoTestCoverageVerification" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles test classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="testClasses" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates Javadoc API documentation for the main source code." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="javadoc" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles a jar archive containing the main classes." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jar" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the configuration model of root project 'MTP'. [incubating]" />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="model" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes main resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="codeCoverageReport" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the tasks runnable from root project 'MTP'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="tasks" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Initializes a new Gradle build." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="init" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs the unit tests." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="test" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles main Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the insight into a specific dependency in root project 'MTP'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencyInsight" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Runs all checks." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="check" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Generates code coverage report for the test task." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="jacocoTestReport" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles the outputs of this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="assemble" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Deletes the build directory." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="clean" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Compiles test Java source." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="compileTestJava" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays all dependencies declared in root project 'MTP'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="dependencies" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Processes test resources." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="processTestResources" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays a help message." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="help" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="build" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Assembles and tests this project and all projects it depends on." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="buildNeeded" />
+              </ExternalTaskPojo>
+              <ExternalTaskPojo>
+                <option name="description" value="Displays the properties of root project 'MTP'." />
+                <option name="linkedExternalProjectPath" value="$PROJECT_DIR$" />
+                <option name="name" value="properties" />
+              </ExternalTaskPojo>
+            </list>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="modificationStamps">
+      <map>
+        <entry key="$PROJECT_DIR$" value="4521881047941" />
+      </map>
+    </option>
+    <option name="projectBuildClasspath">
+      <map>
+        <entry key="$PROJECT_DIR$">
+          <value>
+            <ExternalProjectBuildClasspathPojo>
+              <option name="modulesBuildClasspath">
+                <map>
+                  <entry key="$PROJECT_DIR$">
+                    <value>
+                      <ExternalModuleBuildClasspathPojo>
+                        <option name="path" value="$PROJECT_DIR$" />
+                      </ExternalModuleBuildClasspathPojo>
+                    </value>
+                  </entry>
+                </map>
+              </option>
+              <option name="name" value="MTP" />
+              <option name="projectBuildClasspath">
+                <list>
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/ant-1.9.6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/ant-launcher-1.9.6.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/gradle-base-services-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/gradle-base-services-groovy-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/gradle-cli-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/gradle-core-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/gradle-docs-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/gradle-installation-beacon-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/gradle-jvm-services-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/gradle-kotlin-dsl-0.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/gradle-kotlin-dsl-compiler-plugin-0.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/gradle-kotlin-dsl-tooling-builders-0.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/gradle-kotlin-dsl-tooling-models-0.10.3.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/gradle-launcher-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/gradle-logging-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/gradle-messaging-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/gradle-model-core-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/gradle-model-groovy-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/gradle-native-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/gradle-process-services-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/gradle-resources-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/gradle-runtime-api-info-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/gradle-tooling-api-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/gradle-wrapper-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/groovy-all-2.4.11.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/plugins/gradle-announce-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/plugins/gradle-antlr-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/plugins/gradle-build-cache-http-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/plugins/gradle-build-comparison-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/plugins/gradle-build-init-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/plugins/gradle-code-quality-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/plugins/gradle-composite-builds-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/plugins/gradle-dependency-management-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/plugins/gradle-diagnostics-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/plugins/gradle-ear-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/plugins/gradle-ide-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/plugins/gradle-ide-native-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/plugins/gradle-ide-play-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/plugins/gradle-ivy-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/plugins/gradle-jacoco-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/plugins/gradle-javascript-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/plugins/gradle-language-groovy-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/plugins/gradle-language-java-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/plugins/gradle-language-jvm-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/plugins/gradle-language-native-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/plugins/gradle-language-scala-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/plugins/gradle-maven-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/plugins/gradle-osgi-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/plugins/gradle-platform-base-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/plugins/gradle-platform-jvm-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/plugins/gradle-platform-native-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/plugins/gradle-platform-play-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/plugins/gradle-plugin-development-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/plugins/gradle-plugin-use-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/plugins/gradle-plugins-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/plugins/gradle-publish-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/plugins/gradle-reporting-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/plugins/gradle-resources-http-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/plugins/gradle-resources-s3-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/plugins/gradle-resources-sftp-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/plugins/gradle-scala-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/plugins/gradle-signing-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/plugins/gradle-test-kit-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/plugins/gradle-testing-base-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/plugins/gradle-testing-jvm-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/plugins/gradle-testing-native-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/plugins/gradle-tooling-api-builders-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/plugins/gradle-workers-4.1.jar" />
+                  <option value="$USER_HOME$/.gradle/wrapper/dists/gradle-4.1-bin/c3kp51zwwt108wc78u68yt7vs/gradle-4.1/lib/plugins/ivy-2.2.0.jar" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/java" />
+                  <option value="$PROJECT_DIR$/buildSrc/src/main/groovy" />
+                </list>
+              </option>
+            </ExternalProjectBuildClasspathPojo>
+          </value>
+        </entry>
+      </map>
+    </option>
+    <option name="externalProjectsViewState">
+      <projects_view />
+    </option>
+  </component>
+  <component name="IdeDocumentHistory">
+    <option name="CHANGED_PATHS">
+      <list>
+        <option value="$PROJECT_DIR$/src/main/java/lab_3_sort/BubbleSort.java" />
+        <option value="$PROJECT_DIR$/src/test/java/lab_2_array/Array.java" />
+        <option value="$PROJECT_DIR$/src/test/java/SortTest.java" />
+        <option value="$PROJECT_DIR$/src/test/javatest/SortTest.java" />
+        <option value="$PROJECT_DIR$/src/test/lab_3_sort/BubbleSortTest.java" />
+      </list>
+    </option>
+  </component>
+  <component name="JsBuildToolGruntFileManager" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsBuildToolPackageJson" detection-done="true" sorting="DEFINITION_ORDER" />
+  <component name="JsGulpfileManager">
+    <detection-done>true</detection-done>
+    <sorting>DEFINITION_ORDER</sorting>
+  </component>
+  <component name="ProjectFrameBounds" extendedState="6">
+    <option name="x" value="10" />
+    <option name="y" value="60" />
+    <option name="width" value="1346" />
+    <option name="height" value="688" />
+  </component>
+  <component name="ProjectLevelVcsManager" settingsEditedManually="true" />
+  <component name="ProjectView">
+    <navigator currentView="ProjectPane" proportions="" version="1">
+      <flattenPackages />
+      <showMembers />
+      <showModules />
+      <showLibraryContents />
+      <hideEmptyPackages />
+      <abbreviatePackageNames />
+      <autoscrollToSource />
+      <autoscrollFromSource />
+      <sortByType />
+      <manualOrder />
+      <foldersAlwaysOnTop value="true" />
+    </navigator>
+    <panes>
+      <pane id="ProjectPane">
+        <subPane>
+          <expand>
+            <path>
+              <item name="MTP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MTP_lab_4_tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="MTP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MTP_lab_4_tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MTP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MTP_lab_4_tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="MTP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MTP_lab_4_tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MTP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MTP_lab_4_tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="main" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="java" type="462c0819:PsiDirectoryNode" />
+              <item name="lab_3_sort" type="462c0819:PsiDirectoryNode" />
+            </path>
+            <path>
+              <item name="MTP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MTP_lab_4_tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+            </path>
+            <path>
+              <item name="MTP" type="b2602c69:ProjectViewProjectNode" />
+              <item name="MTP_lab_4_tests" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="src" type="462c0819:PsiDirectoryNode" />
+              <item name="test" type="8a07ba80:GradleTreeStructureProvider$GradleModuleDirectoryNode" />
+              <item name="javatest" type="462c0819:PsiDirectoryNode" />
+            </path>
+          </expand>
+          <select />
+        </subPane>
+      </pane>
+      <pane id="Scope" />
+      <pane id="AndroidView" />
+      <pane id="Scratches" />
+      <pane id="PackagesPane" />
+    </panes>
+  </component>
+  <component name="PropertiesComponent">
+    <property name="WebServerToolWindowFactoryState" value="false" />
+    <property name="aspect.path.notification.shown" value="true" />
+    <property name="com.intellij.testIntegration.createTest.CreateTestDialog.defaultLibrary" value="JUnit4" />
+    <property name="settings.editor.selected.configurable" value="project.propVCSSupport.Mappings" />
+    <property name="last_opened_file_path" value="$PROJECT_DIR$" />
+  </component>
+  <component name="RecentsManager">
+    <key name="CreateTestDialog.RecentsKey">
+      <recent name="lab_3_sort" />
+    </key>
+    <key name="MoveFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\MTP\MTP_lab_4_tests\src\test" />
+      <recent name="C:\Users\Admin\MTP\MTP_lab_4_tests\src\main\java" />
+    </key>
+    <key name="MoveClassesOrPackagesDialog.RECENTS_KEY">
+      <recent name="" />
+    </key>
+    <key name="CreateTestDialog.Recents.Supers">
+      <recent name="" />
+    </key>
+    <key name="CopyFile.RECENT_KEYS">
+      <recent name="C:\Users\Admin\MTP\MTP_lab_4_tests\src\test" />
+    </key>
+  </component>
+  <component name="RunDashboard">
+    <option name="ruleStates">
+      <list>
+        <RuleState>
+          <option name="name" value="ConfigurationTypeDashboardGroupingRule" />
+        </RuleState>
+        <RuleState>
+          <option name="name" value="StatusDashboardGroupingRule" />
+        </RuleState>
+      </list>
+    </option>
+  </component>
+  <component name="RunManager" selected="JUnit.javatest in MTP_test">
+    <configuration name="SortTest" type="AndroidJUnit" factoryName="Android JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="MTP_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="java" />
+      <option name="MAIN_CLASS_NAME" value="java.SortTest" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="Applet" factoryName="Applet">
+      <option name="HTML_USED" value="false" />
+      <option name="WIDTH" value="400" />
+      <option name="HEIGHT" value="300" />
+      <option name="POLICY_FILE" value="$APPLICATION_HOME_DIR$/bin/appletviewer.policy" />
+      <module />
+    </configuration>
+    <configuration default="true" type="Application" factoryName="Application">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="VM_PARAMETERS" />
+      <option name="PROGRAM_PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$PROJECT_DIR$" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="ENABLE_SWING_INSPECTOR" value="false" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <module name="" />
+      <envs />
+    </configuration>
+    <configuration default="true" type="JUnit" factoryName="JUnit">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="class" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration default="true" type="#org.jetbrains.idea.devkit.run.PluginConfigurationType" factoryName="Plugin">
+      <module name="" />
+      <option name="VM_PARAMETERS" value="-Xmx512m -Xms256m -XX:MaxPermSize=250m -ea" />
+      <option name="PROGRAM_PARAMETERS" />
+      <predefined_log_file id="idea.log" enabled="true" />
+    </configuration>
+    <configuration default="true" type="Remote" factoryName="Remote">
+      <option name="USE_SOCKET_TRANSPORT" value="true" />
+      <option name="SERVER_MODE" value="false" />
+      <option name="SHMEM_ADDRESS" value="javadebug" />
+      <option name="HOST" value="localhost" />
+      <option name="PORT" value="5005" />
+    </configuration>
+    <configuration default="true" type="TestNG" factoryName="TestNG">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea" />
+      <module name="" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="SUITE_NAME" />
+      <option name="PACKAGE_NAME" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="GROUP_NAME" />
+      <option name="TEST_OBJECT" value="CLASS" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="$MODULE_DIR$" />
+      <option name="OUTPUT_DIRECTORY" />
+      <option name="ANNOTATION_TYPE" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <option name="USE_DEFAULT_REPORTERS" value="false" />
+      <option name="PROPERTIES_FILE" />
+      <envs />
+      <properties />
+      <listeners />
+    </configuration>
+    <configuration name="java in MTP_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="java.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="MTP_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="java" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="javatest in MTP_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="javatest.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="MTP_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="javatest" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <configuration name="new in MTP_test" type="JUnit" factoryName="JUnit" temporary="true" nameIsGenerated="true">
+      <extension name="coverage" enabled="false" merge="false" sample_coverage="true" runner="idea">
+        <pattern>
+          <option name="PATTERN" value="new.*" />
+          <option name="ENABLED" value="true" />
+        </pattern>
+      </extension>
+      <module name="MTP_test" />
+      <option name="ALTERNATIVE_JRE_PATH_ENABLED" value="false" />
+      <option name="ALTERNATIVE_JRE_PATH" />
+      <option name="PACKAGE_NAME" value="new" />
+      <option name="MAIN_CLASS_NAME" />
+      <option name="METHOD_NAME" />
+      <option name="TEST_OBJECT" value="package" />
+      <option name="VM_PARAMETERS" value="-ea" />
+      <option name="PARAMETERS" />
+      <option name="WORKING_DIRECTORY" value="file://$PROJECT_DIR$" />
+      <option name="ENV_VARIABLES" />
+      <option name="PASS_PARENT_ENVS" value="true" />
+      <option name="TEST_SEARCH_SCOPE">
+        <value defaultName="singleModule" />
+      </option>
+      <envs />
+      <patterns />
+    </configuration>
+    <list size="4">
+      <item index="0" class="java.lang.String" itemvalue="Android JUnit.SortTest" />
+      <item index="1" class="java.lang.String" itemvalue="JUnit.new in MTP_test" />
+      <item index="2" class="java.lang.String" itemvalue="JUnit.java in MTP_test" />
+      <item index="3" class="java.lang.String" itemvalue="JUnit.javatest in MTP_test" />
+    </list>
+    <recent_temporary>
+      <list size="4">
+        <item index="0" class="java.lang.String" itemvalue="JUnit.javatest in MTP_test" />
+        <item index="1" class="java.lang.String" itemvalue="JUnit.java in MTP_test" />
+        <item index="2" class="java.lang.String" itemvalue="Android JUnit.SortTest" />
+        <item index="3" class="java.lang.String" itemvalue="JUnit.new in MTP_test" />
+      </list>
+    </recent_temporary>
+  </component>
+  <component name="ShelveChangesManager" show_recycled="false">
+    <option name="remove_strategy" value="false" />
+  </component>
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="3a11ea22-42b0-4d7e-80a6-b907bc3ca009" name="Default" comment="" />
+      <created>1507293646855</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1507293646855</updated>
+      <workItem from="1507293659668" duration="2230000" />
+      <workItem from="1507403668646" duration="1611000" />
+    </task>
+    <servers />
+  </component>
+  <component name="TestHistory">
+    <history-entry file="SortTest - 2017.10.06 at 16h 07m 26s.xml">
+      <configuration name="SortTest" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="SortTest - 2017.10.06 at 16h 08m 28s.xml">
+      <configuration name="SortTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortTest - 2017.10.06 at 16h 08m 40s.xml">
+      <configuration name="SortTest" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="SortTest - 2017.10.06 at 16h 09m 19s.xml">
+      <configuration name="SortTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortTest - 2017.10.06 at 16h 12m 52s.xml">
+      <configuration name="SortTest" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="SortTest - 2017.10.06 at 16h 16m 17s.xml">
+      <configuration name="SortTest" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="SortTest_BubbleSort - 2017.10.06 at 16h 08m 10s.xml">
+      <configuration name="SortTest.BubbleSort" configurationId="AndroidJUnit" />
+    </history-entry>
+    <history-entry file="java_in_MTP_test - 2017.10.06 at 16h 17m 10s.xml">
+      <configuration name="java in MTP_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="javatest_in_MTP_test - 2017.10.06 at 16h 17m 58s.xml">
+      <configuration name="javatest in MTP_test" configurationId="JUnit" />
+    </history-entry>
+    <history-entry file="new_in_MTP_test - 2017.10.06 at 16h 14m 42s.xml">
+      <configuration name="new in MTP_test" configurationId="JUnit" />
+    </history-entry>
+  </component>
+  <component name="TimeTrackingManager">
+    <option name="totallyTimeSpent" value="3841000" />
+  </component>
+  <component name="ToolWindowManager">
+    <frame x="-8" y="32" width="1382" height="744" extended-state="6" />
+    <editor active="true" />
+    <layout>
+      <window_info id="Palette" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="TODO" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="6" side_tool="false" content_ui="tabs" />
+      <window_info id="Messages" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Palette&#9;" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Image Layers" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Analysis" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Event Log" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="true" content_ui="tabs" />
+      <window_info id="Maven Projects" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Version Control" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Run" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32843137" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Terminal" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="7" side_tool="false" content_ui="tabs" />
+      <window_info id="Capture Tool" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Project" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="true" show_stripe_button="true" weight="0.25340393" sideWeight="0.5" order="0" side_tool="false" content_ui="combo" />
+      <window_info id="Database" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Gradle" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Structure" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="Ant Build" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.24962178" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+      <window_info id="UI Designer" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="false" content_ui="tabs" />
+      <window_info id="Theme Preview" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Favorites" active="false" anchor="left" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="2" side_tool="true" content_ui="tabs" />
+      <window_info id="Debug" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="3" side_tool="false" content_ui="tabs" />
+      <window_info id="Cvs" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="4" side_tool="false" content_ui="tabs" />
+      <window_info id="Message" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Commander" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="0" side_tool="false" content_ui="tabs" />
+      <window_info id="Hierarchy" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.25" sideWeight="0.5" order="2" side_tool="false" content_ui="combo" />
+      <window_info id="Inspection" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.4" sideWeight="0.5" order="5" side_tool="false" content_ui="tabs" />
+      <window_info id="Coverage" active="false" anchor="right" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.32980332" sideWeight="0.5" order="3" side_tool="true" content_ui="tabs" />
+      <window_info id="Find" active="false" anchor="bottom" auto_hide="false" internal_type="DOCKED" type="DOCKED" visible="false" show_stripe_button="true" weight="0.33" sideWeight="0.5" order="1" side_tool="false" content_ui="tabs" />
+    </layout>
+  </component>
+  <component name="TypeScriptGeneratedFilesManager">
+    <option name="version" value="1" />
+  </component>
+  <component name="VcsContentAnnotationSettings">
+    <option name="myLimit" value="2678400000" />
+  </component>
+  <component name="XDebuggerManager">
+    <breakpoint-manager />
+    <watches-manager />
+  </component>
+  <component name="antWorkspaceConfiguration">
+    <option name="IS_AUTOSCROLL_TO_SOURCE" value="false" />
+    <option name="FILTER_TARGETS" value="false" />
+  </component>
+  <component name="editorHistoryManager">
+    <entry file="file://$PROJECT_DIR$/src/test/javatest/SortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="0">
+          <caret line="0" column="0" lean-forward="false" selection-start-line="0" selection-start-column="0" selection-end-line="0" selection-end-column="0" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/main/java/lab_2_array/Main.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="119">
+          <caret line="7" column="59" lean-forward="false" selection-start-line="7" selection-start-column="59" selection-end-line="7" selection-end-column="59" />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/java/lab_3_sort/Array.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/lab_3_sort/CocktailSort.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/lab_3_sort/Sortable.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/lab_3_sort/CycleSort.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/lab_3_sort/InsertionSort.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/lab_2_array/Main.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/lab_3_sort/Watch.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/lab_3_sort/BubbleSort.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/lab_2_array/Matrix.java" />
+    <entry file="file://$PROJECT_DIR$/src/test/java/lab_2_array/Array.java" />
+    <entry file="file://$PROJECT_DIR$/src/main/java/lab_3_sort/BubbleSort.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="34">
+          <caret line="2" column="20" lean-forward="false" selection-start-line="2" selection-start-column="20" selection-end-line="2" selection-end-column="20" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/lab_3_sort/BubbleSortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="269">
+          <caret line="22" column="17" lean-forward="false" selection-start-line="22" selection-start-column="17" selection-end-line="22" selection-end-column="17" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/src/test/javatest/SortTest.java">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="189">
+          <caret line="20" column="41" lean-forward="true" selection-start-line="20" selection-start-column="41" selection-end-line="20" selection-end-column="41" />
+          <folding>
+            <element signature="imports" expanded="true" />
+          </folding>
+        </state>
+      </provider>
+    </entry>
+  </component>
+  <component name="masterDetails">
+    <states>
+      <state key="ProjectJDKs.UI">
+        <settings>
+          <last-edited>1.8</last-edited>
+          <splitter-proportions>
+            <option name="proportions">
+              <list>
+                <option value="0.2" />
+              </list>
+            </option>
+          </splitter-proportions>
+        </settings>
+      </state>
+    </states>
+  </component>
+</project>
