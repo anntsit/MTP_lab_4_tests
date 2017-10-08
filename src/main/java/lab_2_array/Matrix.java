@@ -23,8 +23,9 @@ public class Matrix {
     public int FindColomn(){
         int colomn = 0;
         int finalSum = 0;
+        int sum;
         for(int j=0; j<dimension; j++){
-            int sum = 0;
+             sum = 0;
             for(int i=0; i<dimension; i++){
                 if(matrix[i][j] <0 ){
                     int tmp = matrix[i][j]*(-1);

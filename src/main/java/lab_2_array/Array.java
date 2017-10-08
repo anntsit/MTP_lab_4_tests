@@ -7,7 +7,7 @@ public class Array {
         this.array=array;
     }
 
-    public int FindNumerOfPositive (){
+    public int FindNumberOfPositive (){
         int number = 0;
         for(int i=0; i<array.length; i++){
            if (array[i]>0) number++;
