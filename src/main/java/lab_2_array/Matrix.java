@@ -3,11 +3,11 @@ package lab_2_array;
 import java.util.Random;
 
 public class Matrix {
-    private int [][] matrix;
-    private int dimension;
+    private static int [][] matrix;
+    private static int dimension;
 
-    public Matrix(int dimension){
-        this.dimension = dimension;
+    public static int[][] GenerateMatrix(int Dimension){
+        dimension = Dimension;
         matrix = new int [dimension][dimension];
         Random random = new Random();
         for (int i=0; i < dimension; i++){
@@ -18,14 +18,20 @@ public class Matrix {
             }
             System.out.println();
         }
+        return matrix;
     }
 
-    public int FindColomn(){
+    public Matrix(int[][] Matrix){
+        matrix = Matrix;
+        dimension = matrix.length;
+    }
+
+    public int FindColon(){
         int colomn = 0;
         int finalSum = 0;
         int sum;
         for(int j=0; j<dimension; j++){
-             sum = 0;
+            sum = 0;
             for(int i=0; i<dimension; i++){
                 if(matrix[i][j] <0 ){
                     int tmp = matrix[i][j]*(-1);
