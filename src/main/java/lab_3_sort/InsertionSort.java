@@ -2,8 +2,6 @@ package lab_3_sort;
 
 public class InsertionSort implements Sortable {
 
-    public String getName(){return "Insertion Sort";}
-
     public void Sort(int[] arr, int ... border){
         int  key, j;
         for (int i = 1; i < arr.length; i++)
@@ -18,5 +16,10 @@ public class InsertionSort implements Sortable {
             }
             arr[j+1] = key;
         }
+    }
+
+    @Override
+    public String toString() {
+        return "Insertion Sort";
     }
 }

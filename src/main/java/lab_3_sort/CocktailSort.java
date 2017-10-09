@@ -2,8 +2,6 @@ package lab_3_sort;
 
 public class CocktailSort implements Sortable {
 
-    public String getName(){return "Cocktail Sort";}
-
     public void Sort(int[] arr, int... border) {
             int n = arr.length, start = 0, end = n - 1, temp;
             boolean swapped = true;
@@ -56,5 +54,10 @@ public class CocktailSort implements Sortable {
             }
 
         }
+
+    @Override
+    public String toString() {
+        return "Cocktail Sort";
     }
+}
 

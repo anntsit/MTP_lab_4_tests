@@ -2,8 +2,6 @@ package lab_3_sort;
 
 public class QuickSort implements Sortable{
 
-    public String getName(){return "Quick Sort";}
-
     public  void Sort(int[] arr, int ... border){
         if (border[0] >= border[1])
             return;
@@ -29,5 +27,10 @@ public class QuickSort implements Sortable{
         Sort(arr, border[0], cur);
         Sort(arr, cur+1, border[1]);
 
+    }
+
+    @Override
+    public String toString() {
+        return "Quick Sort";
     }
 }

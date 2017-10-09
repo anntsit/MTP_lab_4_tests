@@ -2,8 +2,6 @@ package lab_3_sort;
 
 public class CycleSort implements  Sortable{
 
-    public String getName(){return "Cycle Sort";}
-
     public void Sort(int[] arr, int ... border){
         for (int cycleStart = 0; cycleStart < arr.length - 1; cycleStart++) {
             int val = arr[cycleStart];
@@ -46,5 +44,10 @@ public class CycleSort implements  Sortable{
 
             }
         }
+    }
+
+    @Override
+    public String toString() {
+        return "Cycle Sort";
     }
 }

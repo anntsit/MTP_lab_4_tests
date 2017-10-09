@@ -16,5 +16,8 @@ public class BubbleSort implements Sortable {
         }
     }
 
-    public String getName(){return "Bubble Sort";}
+    @Override
+    public String toString() {
+        return "Bubble Sort";
+    }
 }
