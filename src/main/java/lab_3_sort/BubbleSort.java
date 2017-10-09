@@ -2,7 +2,7 @@ package lab_3_sort;
 
 public class BubbleSort implements Sortable {
 
-    public void Sort(int[] arr, int ... border) {
+    public void sort(int[] arr, int ... border) {
         int n = arr.length;
         int temp = 0;
         for (int i = 0; i < n; i++) {

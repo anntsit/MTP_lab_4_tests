@@ -20,7 +20,7 @@ public class SortTest {
     public void BubbleSort() {
     BubbleSort bubble = new BubbleSort();
     Arrays.sort(expectedArray);
-    bubble.Sort(actualArray);
+    bubble.sort(actualArray);
     assertArrayEquals(expectedArray, actualArray);
     }
 
@@ -28,7 +28,7 @@ public class SortTest {
     public void CocktailSort() {
      CocktailSort cocktail=  new CocktailSort();
      Arrays.sort(expectedArray);
-     cocktail.Sort(actualArray);
+     cocktail.sort(actualArray);
      assertArrayEquals(expectedArray, actualArray);
     }
 
@@ -36,7 +36,7 @@ public class SortTest {
     public void CycleSort() {
      CycleSort cycle = new CycleSort();
      Arrays.sort(expectedArray);
-     cycle.Sort(actualArray);
+     cycle.sort(actualArray);
      assertArrayEquals(expectedArray, actualArray);
     }
 
@@ -44,7 +44,7 @@ public class SortTest {
     public void InsertionSort() {
      InsertionSort insertion = new InsertionSort();
      Arrays.sort(expectedArray);
-     insertion.Sort(actualArray);
+     insertion.sort(actualArray);
      assertArrayEquals(expectedArray, actualArray);
     }
 
@@ -52,7 +52,7 @@ public class SortTest {
     public void MergeSort() {
      MergeSort merge = new MergeSort();
      Arrays.sort(expectedArray);
-     merge.Sort(actualArray, 0, actualArray.length-1);
+     merge.sort(actualArray, 0, actualArray.length-1);
      assertArrayEquals(expectedArray, actualArray);
     }
 
@@ -60,7 +60,7 @@ public class SortTest {
     public void QuickSort() {
      QuickSort quick = new QuickSort();
      Arrays.sort(expectedArray);
-     quick.Sort(actualArray, 0, actualArray.length-1);
+     quick.sort(actualArray, 0, actualArray.length-1);
      assertArrayEquals(expectedArray, actualArray);
     }
 }

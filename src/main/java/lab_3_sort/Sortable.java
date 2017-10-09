@@ -1,5 +1,5 @@
 package lab_3_sort;
 
 public interface Sortable {
-    void Sort(int[] arr, int ... borders);
+    void sort(int[] arr, int ... borders);
 }

@@ -2,7 +2,7 @@ package lab_3_sort;
 
 public class CycleSort implements  Sortable{
 
-    public void Sort(int[] arr, int ... border){
+    public void sort(int[] arr, int ... border){
         for (int cycleStart = 0; cycleStart < arr.length - 1; cycleStart++) {
             int val = arr[cycleStart];
 

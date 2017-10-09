@@ -6,7 +6,7 @@ public class Matrix {
     private static int [][] matrix;
     private static int dimension;
 
-    public static int[][] GenerateMatrix(int Dimension){
+    public static int[][] generateMatrix(int Dimension){
         dimension = Dimension;
         matrix = new int [dimension][dimension];
         Random random = new Random();
@@ -26,7 +26,7 @@ public class Matrix {
         dimension = matrix.length;
     }
 
-    public int FindColon(){
+    public int findColon(){
         int colomn = 0;
         int finalSum = 0;
         int sum;
@@ -46,7 +46,7 @@ public class Matrix {
         return colomn;
     }
 
-    public int FindMinimumElement(int colomn){
+    public int findMinimumElement(int colomn){
     int minimum = matrix[0][colomn];
     for(int i=0; i< dimension; i++){
         if(matrix[i][colomn]<minimum) minimum = matrix[i][colomn];
@@ -54,7 +54,7 @@ public class Matrix {
     return minimum;
     }
 
-    public int[] FindFirstPositiveItem(){
+    public int[] findFirstPositiveItem(){
         int[] positive = new int[dimension];
         int count = 0;
         for(int i= 0; i<dimension;i++){
@@ -69,7 +69,7 @@ public class Matrix {
         return positive;
     }
 
-    public int[] FindMinimumToDiagonal(){
+    public int[] findMinimumToDiagonal(){
         int[] minimum = new int[dimension];
         for(int i=0; i<dimension;i++){
             minimum[i]=matrix[i][0];

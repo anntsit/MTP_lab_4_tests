@@ -18,28 +18,28 @@ public class MatrixTest {
 
     @Test
     public void FindColon(){
-        int customColon = customMatrix.FindColon();
+        int customColon = customMatrix.findColon();
         int actualColon = 2; //0
         assertEquals(customColon, actualColon);
     }
 
     @Test
     public void FindMinimumElement(){
-        int customElement = customMatrix.FindMinimumElement(0);
+        int customElement = customMatrix.findMinimumElement(0);
         int actualElement = -100;
         assertEquals(customElement, actualElement);
     }
 
     @Test
     public void FindFirstPositiveItem(){
-        int[] customPosotives = customMatrix.FindFirstPositiveItem();
-        int[] actualPosotives = {1, 8, 17};
-        assertArrayEquals(customPosotives, actualPosotives);
+        int[] customPositives = customMatrix.findFirstPositiveItem();
+        int[] actualPositives = {1, 8, 17};
+        assertArrayEquals(customPositives, actualPositives);
     }
 
     @Test
     public void FindMinimumToDiagonal(){
-        int[] customElements = customMatrix.FindMinimumToDiagonal();
+        int[] customElements = customMatrix.findMinimumToDiagonal();
         int[] actualElements = {1, -5, -100};
         assertArrayEquals(customElements, actualElements);
     }

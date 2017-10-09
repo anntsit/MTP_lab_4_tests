@@ -2,14 +2,14 @@ package lab_3_sort;
 
 public class MergeSort implements Sortable {
 
-    public void Sort(int[] arr, int... border) {
+    public void sort(int[] arr, int... border) {
         if (border[0] < border[1]) {
             // Find the middle point
             int middle = (border[0] + border[1]) / 2;
 
             // Sort first and second halves
-            Sort(arr, border[0], middle);
-            Sort(arr, middle + 1, border[1]);
+            sort(arr, border[0], middle);
+            sort(arr, middle + 1, border[1]);
 
             // Merge the sorted halves
             Merge(arr, border[0], middle, border[1]);

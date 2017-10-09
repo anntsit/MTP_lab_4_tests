@@ -17,43 +17,43 @@ public class ArrayTest {
     }
 
     @Test
-    public void FindNumberOfPositive(){
-        int customNumber = customArray.FindNumberOfPositive();
+    public void findNumberOfPositive(){
+        int customNumber = customArray.findNumberOfPositive();
         int actualNumber = 7;
         assertEquals(customNumber, actualNumber);
     }
 
     @Test
-    public void SumOfElementsLargeThanThree(){
-        int customNumber = customArray.SumOfElementsLargeThanThree();
+    public void sumOfElementsLargeThanThree(){
+        int customNumber = customArray.sumOfElementsLargeThanThree();
         int actualSum = 30;
         assertEquals(customNumber, actualSum);
     }
 
     @Test
-    public void FindMaximumElement(){
-        int customNumber = customArray.FindMaximumElement();
+    public void findMaximumElement(){
+        int customNumber = customArray.findMaximumElement();
         int actualMax = 9;
         assertEquals(customNumber, actualMax);
     }
 
     @Test
-    public void FindNumberOfNegative(){
-        int customNumber = customArray.FindNumberOfNegative();
+    public void findNumberOfNegative(){
+        int customNumber = customArray.findNumberOfNegative();
         int actualNumber = 3;
         assertEquals(customNumber, actualNumber);
     }
 
     @Test
-    public void FindSumOfNegative(){
-        int customNumber = customArray.FindSumOfNegative();
+    public void findSumOfNegative(){
+        int customNumber = customArray.findSumOfNegative();
         int actualSum = -24;
         assertEquals(customNumber, actualSum);
     }
 
     @Test
-    public void FindMinimumNumberDivisibleByFive(){
-        int customNumber = customArray.FindMinimumNumberDivisibleByFive();
+    public void findMinimumNumberDivisibleByFive(){
+        int customNumber = customArray.findMinimumNumberDivisibleByFive();
         int actualNumber = -15;
         assertEquals(customNumber, actualNumber);
     }

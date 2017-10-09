@@ -7,7 +7,7 @@ public class Array {
         this.array=array;
     }
 
-    public int FindNumberOfPositive (){
+    public int findNumberOfPositive (){
         int number = 0;
         for(int i=0; i<array.length; i++){
            if (array[i]>0) number++;
@@ -15,7 +15,7 @@ public class Array {
         return number;
     }
 
-    public int SumOfElementsLargeThanThree (){
+    public int sumOfElementsLargeThanThree (){
         int sum = 0;
         for (int i= 0; i<array.length; i++){
             if(array[i]>3) sum+=array[i];
@@ -23,7 +23,7 @@ public class Array {
         return sum;
     }
 
-    public int FindMaximumElement (){
+    public int findMaximumElement (){
         int max = array[0];
         for (int i=0; i<array.length; i++){
             if(array[i]>max) max=array[i];
@@ -31,14 +31,14 @@ public class Array {
         return max;
     }
 
-    public int FindNumberOfNegative (){
+    public int findNumberOfNegative (){
         int number = 0;
         for (int i=0; i<array.length; i++)
             if(array[i]<0) number++;
         return number;
     }
 
-    public int FindSumOfNegative (){
+    public int findSumOfNegative (){
         int sum = 0;
         for(int i = 0; i<array.length; i++){
             if(array[i]<0) sum +=array[i];
@@ -46,7 +46,7 @@ public class Array {
         return sum;
     }
 
-    public int FindMinimumNumberDivisibleByFive () {
+    public int findMinimumNumberDivisibleByFive () {
         int number = 0;
         for(int i = 0; i<array.length; i++)
             if(array[i]%5==0 && array[i]<number) number=array[i];

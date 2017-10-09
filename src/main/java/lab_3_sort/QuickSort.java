@@ -2,7 +2,7 @@ package lab_3_sort;
 
 public class QuickSort implements Sortable{
 
-    public  void Sort(int[] arr, int ... border){
+    public  void sort(int[] arr, int ... border){
         if (border[0] >= border[1])
             return;
         int i = border[0], j = border[1];
@@ -24,8 +24,8 @@ public class QuickSort implements Sortable{
                     cur = i;
             }
         }
-        Sort(arr, border[0], cur);
-        Sort(arr, cur+1, border[1]);
+        sort(arr, border[0], cur);
+        sort(arr, cur+1, border[1]);
 
     }
 

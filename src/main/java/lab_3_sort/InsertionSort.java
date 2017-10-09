@@ -2,7 +2,7 @@ package lab_3_sort;
 
 public class InsertionSort implements Sortable {
 
-    public void Sort(int[] arr, int ... border){
+    public void sort(int[] arr, int ... border){
         int  key, j;
         for (int i = 1; i < arr.length; i++)
         {
