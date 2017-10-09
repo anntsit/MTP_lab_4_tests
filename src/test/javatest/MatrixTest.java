@@ -17,28 +17,28 @@ public class MatrixTest {
     }
 
     @Test
-    public void FindColon(){
+    public void findColon(){
         int customColon = customMatrix.findColon();
         int actualColon = 2; //0
         assertEquals(customColon, actualColon);
     }
 
     @Test
-    public void FindMinimumElement(){
+    public void findMinimumElement(){
         int customElement = customMatrix.findMinimumElement(0);
         int actualElement = -100;
         assertEquals(customElement, actualElement);
     }
 
     @Test
-    public void FindFirstPositiveItem(){
+    public void findFirstPositiveItem(){
         int[] customPositives = customMatrix.findFirstPositiveItem();
         int[] actualPositives = {1, 8, 17};
         assertArrayEquals(customPositives, actualPositives);
     }
 
     @Test
-    public void FindMinimumToDiagonal(){
+    public void findMinimumToDiagonal(){
         int[] customElements = customMatrix.findMinimumToDiagonal();
         int[] actualElements = {1, -5, -100};
         assertArrayEquals(customElements, actualElements);
