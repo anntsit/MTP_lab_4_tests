@@ -17,7 +17,7 @@ public class SortTest {
     }
 
     @Test
-    public void BubbleSort() {
+    public void bubbleSort() {
     BubbleSort bubble = new BubbleSort();
     Arrays.sort(expectedArray);
     bubble.sort(actualArray);
@@ -25,7 +25,7 @@ public class SortTest {
     }
 
     @Test
-    public void CocktailSort() {
+    public void cocktailSort() {
      CocktailSort cocktail=  new CocktailSort();
      Arrays.sort(expectedArray);
      cocktail.sort(actualArray);
@@ -33,7 +33,7 @@ public class SortTest {
     }
 
     @Test
-    public void CycleSort() {
+    public void cycleSort() {
      CycleSort cycle = new CycleSort();
      Arrays.sort(expectedArray);
      cycle.sort(actualArray);
@@ -41,7 +41,7 @@ public class SortTest {
     }
 
     @Test
-    public void InsertionSort() {
+    public void insertionSort() {
      InsertionSort insertion = new InsertionSort();
      Arrays.sort(expectedArray);
      insertion.sort(actualArray);
@@ -49,7 +49,7 @@ public class SortTest {
     }
 
     @Test
-    public void MergeSort() {
+    public void mergeSort() {
      MergeSort merge = new MergeSort();
      Arrays.sort(expectedArray);
      merge.sort(actualArray, 0, actualArray.length-1);
@@ -57,7 +57,7 @@ public class SortTest {
     }
 
     @Test
-    public void QuickSort() {
+    public void quickSort() {
      QuickSort quick = new QuickSort();
      Arrays.sort(expectedArray);
      quick.sort(actualArray, 0, actualArray.length-1);
