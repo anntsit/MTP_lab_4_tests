@@ -434,7 +434,8 @@
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/anhb96ty34s2cegtmbct70e1r/init9cdf6acfe2df124a8b9edfe8979f4434/cache.properties" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit5_9rdkvv4gsqronzqw4nz5j0azb/2wsw7sca11r3l58qdsa6pr8qv/cp_init9cdf6acfe2df124a8b9edfe8979f4434/cache.properties" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit5_9rdkvv4gsqronzqw4nz5j0azb/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/cache.properties" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/test/javatest/SortTest.java" afterPath="$PROJECT_DIR$/src/test/javatest/SortTest.java" />
+      <change type="DELETED" beforePath="$PROJECT_DIR$/.idea/workspace.xml___jb_tmp___" afterPath="" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -542,8 +543,8 @@
       <file leaf-file-name="SortTest.java" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/src/test/javatest/SortTest.java">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="245">
-              <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+            <state relative-caret-position="92">
+              <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
               <folding />
             </state>
           </provider>
@@ -1239,7 +1240,7 @@
       <updated>1507293646855</updated>
       <workItem from="1507293659668" duration="2230000" />
       <workItem from="1507403668646" duration="14397000" />
-      <workItem from="1507534937836" duration="1974000" />
+      <workItem from="1507534937836" duration="2042000" />
     </task>
     <servers />
   </component>
@@ -1276,7 +1277,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="18601000" />
+    <option name="totallyTimeSpent" value="18669000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="32" width="1382" height="744" extended-state="6" />
@@ -1576,8 +1577,8 @@
     </entry>
     <entry file="file://$PROJECT_DIR$/src/test/javatest/SortTest.java">
       <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="245">
-          <caret line="18" column="9" lean-forward="true" selection-start-line="18" selection-start-column="9" selection-end-line="18" selection-end-column="9" />
+        <state relative-caret-position="92">
+          <caret line="9" column="28" lean-forward="true" selection-start-line="9" selection-start-column="28" selection-end-line="9" selection-end-column="28" />
           <folding />
         </state>
       </provider>
