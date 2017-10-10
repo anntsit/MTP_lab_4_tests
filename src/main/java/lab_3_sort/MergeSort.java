@@ -12,11 +12,11 @@ public class MergeSort implements Sortable {
             sort(arr, middle + 1, border[1]);
 
             // Merge the sorted halves
-            Merge(arr, border[0], middle, border[1]);
+            merge(arr, border[0], middle, border[1]);
         }
     }
 
-    private void Merge(int arr[], int lowerIndex, int middle, int higherIndex) {
+    private void merge(int arr[], int lowerIndex, int middle, int higherIndex) {
         // Find sizes of two subarrays to be merged
         int n1 = middle - lowerIndex + 1;
         int n2 = higherIndex - middle;
