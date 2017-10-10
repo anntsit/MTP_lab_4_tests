@@ -3,11 +3,16 @@ package lab_2_array;
 import java.util.Random;
 
 public class Matrix {
-    private static int [][] matrix;
-    private static int dimension;
+    private  int [][] matrix;
+    private  int dimension;
 
-    public static int[][] generateMatrix(int Dimension){
-        dimension = Dimension;
+    public Matrix(int[][] matrix){
+        this.matrix = matrix;
+        dimension = matrix.length;
+    }
+
+    public Matrix(int dimension){
+        this.dimension = dimension;
         matrix = new int [dimension][dimension];
         Random random = new Random();
         for (int i=0; i < dimension; i++){
@@ -18,16 +23,10 @@ public class Matrix {
             }
             System.out.println();
         }
-        return matrix;
-    }
-
-    public Matrix(int[][] Matrix){
-        matrix = Matrix;
-        dimension = matrix.length;
     }
 
     public int findColon(){
-        int colomn = 0;
+        int colon = 0;
         int finalSum = 0;
         int sum;
         for(int j=0; j<dimension; j++){
@@ -41,15 +40,15 @@ public class Matrix {
             }
 
             if(sum > finalSum) sum = finalSum;
-            colomn = j;
+            colon = j;
         }
-        return colomn;
+        return colon;
     }
 
-    public int findMinimumElement(int colomn){
-    int minimum = matrix[0][colomn];
+    public int findMinimumElement(int colon){
+    int minimum = matrix[0][colon];
     for(int i=0; i< dimension; i++){
-        if(matrix[i][colomn]<minimum) minimum = matrix[i][colomn];
+        if(matrix[i][colon]<minimum) minimum = matrix[i][colon];
     }
     return minimum;
     }
