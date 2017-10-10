@@ -15,7 +15,6 @@ before_script:
     - unzip gradle-2.14-bin.zip
     - export GRADLE_HOME=$PWD/gradle-2.14
     - export PATH=$GRADLE_HOME/bin:$PATH
-    - export CODACY_PROJECT_TOKEN=1d524e06f5904e1c9bf6767be8bf9446
 
 script:
 - ./gradlew assemble

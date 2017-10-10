@@ -434,9 +434,8 @@
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit4_rjitz1rupsw3x0uf08y7wkdc/anhb96ty34s2cegtmbct70e1r/init9cdf6acfe2df124a8b9edfe8979f4434/cache.properties" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit5_9rdkvv4gsqronzqw4nz5j0azb/2wsw7sca11r3l58qdsa6pr8qv/cp_init9cdf6acfe2df124a8b9edfe8979f4434/cache.properties" />
       <change type="NEW" beforePath="" afterPath="$USER_HOME$/.gradle/caches/3.5-rc-2/scripts-remapped/ijinit5_9rdkvv4gsqronzqw4nz5j0azb/2wsw7sca11r3l58qdsa6pr8qv/inited7f6523340c7050c693d4d3b58e95aa/cache.properties" />
+      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.idea/workspace.xml" afterPath="$PROJECT_DIR$/.idea/workspace.xml" />
       <change type="MODIFICATION" beforePath="$PROJECT_DIR$/.travis.yml" afterPath="$PROJECT_DIR$/.travis.yml" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/README.md" afterPath="$PROJECT_DIR$/README.md" />
-      <change type="MODIFICATION" beforePath="$PROJECT_DIR$/src/main/java/lab_3_sort/MergeSort.java" afterPath="$PROJECT_DIR$/src/main/java/lab_3_sort/MergeSort.java" />
     </list>
     <ignored path="$PROJECT_DIR$/out/" />
     <ignored path="$PROJECT_DIR$/.gradle/" />
@@ -497,7 +496,7 @@
   </component>
   <component name="FileEditorManager">
     <leaf SIDE_TABS_SIZE_LIMIT_KEY="300">
-      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="true">
+      <file leaf-file-name="build.gradle" pinned="false" current-in-tab="false">
         <entry file="file://$PROJECT_DIR$/build.gradle">
           <provider selected="true" editor-type-id="text-editor">
             <state relative-caret-position="112">
@@ -507,11 +506,11 @@
           </provider>
         </entry>
       </file>
-      <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="false">
+      <file leaf-file-name=".travis.yml" pinned="false" current-in-tab="true">
         <entry file="file://$PROJECT_DIR$/.travis.yml">
           <provider selected="true" editor-type-id="text-editor">
-            <state relative-caret-position="261">
-              <caret line="26" column="151" lean-forward="false" selection-start-line="26" selection-start-column="151" selection-end-line="26" selection-end-column="151" />
+            <state relative-caret-position="91">
+              <caret line="16" column="40" lean-forward="false" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
               <folding />
             </state>
           </provider>
@@ -878,8 +877,8 @@
         <option value="$PROJECT_DIR$/src/test/javatest/MatrixTest.java" />
         <option value="$PROJECT_DIR$/src/test/javatest/SortTest.java" />
         <option value="$PROJECT_DIR$/src/main/java/lab_3_sort/MergeSort.java" />
-        <option value="$PROJECT_DIR$/.travis.yml" />
         <option value="$PROJECT_DIR$/build.gradle" />
+        <option value="$PROJECT_DIR$/.travis.yml" />
       </list>
     </option>
   </component>
@@ -1248,7 +1247,7 @@
       <updated>1507293646855</updated>
       <workItem from="1507293659668" duration="2230000" />
       <workItem from="1507403668646" duration="14397000" />
-      <workItem from="1507534937836" duration="4019000" />
+      <workItem from="1507534937836" duration="4622000" />
     </task>
     <servers />
   </component>
@@ -1285,7 +1284,7 @@
     </history-entry>
   </component>
   <component name="TimeTrackingManager">
-    <option name="totallyTimeSpent" value="20646000" />
+    <option name="totallyTimeSpent" value="21249000" />
   </component>
   <component name="ToolWindowManager">
     <frame x="-8" y="32" width="1382" height="744" extended-state="6" />
@@ -1573,18 +1572,18 @@
         </state>
       </provider>
     </entry>
-    <entry file="file://$PROJECT_DIR$/.travis.yml">
-      <provider selected="true" editor-type-id="text-editor">
-        <state relative-caret-position="261">
-          <caret line="26" column="151" lean-forward="false" selection-start-line="26" selection-start-column="151" selection-end-line="26" selection-end-column="151" />
-          <folding />
-        </state>
-      </provider>
-    </entry>
     <entry file="file://$PROJECT_DIR$/build.gradle">
       <provider selected="true" editor-type-id="text-editor">
         <state relative-caret-position="112">
           <caret line="71" column="14" lean-forward="true" selection-start-line="71" selection-start-column="14" selection-end-line="71" selection-end-column="14" />
+          <folding />
+        </state>
+      </provider>
+    </entry>
+    <entry file="file://$PROJECT_DIR$/.travis.yml">
+      <provider selected="true" editor-type-id="text-editor">
+        <state relative-caret-position="91">
+          <caret line="16" column="40" lean-forward="false" selection-start-line="16" selection-start-column="40" selection-end-line="16" selection-end-column="40" />
           <folding />
         </state>
       </provider>
