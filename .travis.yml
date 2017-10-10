@@ -3,6 +3,8 @@ sudo: required
 install: /bin/true
 
 jdk:
+- openjdk6
+- oraclejdk7
 - oraclejdk8
 
 before_install:
